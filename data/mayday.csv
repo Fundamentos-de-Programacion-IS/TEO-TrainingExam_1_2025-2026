@@ -1,4 +1,4 @@
-Date;Time;Location;Operator;Flight;Route;Type;Survivors;Fatalities;Airport;Operation
+Date;Time;Location;Operator;Flight;Route;Type;Survivors;Fatalities;Fallecidos_en_tierra;Operation
 12/03/1950;14:50;Llandow Airport, Cardiff, Wales;Fairflight Ltd.;;Llandow - Dublin;Avro 689 Tudor 5;3;80;0;Landing
 26/03/1952;;Tula Airport;Aeroflot / Military transport; / ;Odessa - Tula - Moscow / Tula - Berlin, Germany;Lisunov Li-2 / Ilyushin IL-12;0;70;0;Landing
 20/12/1952;6:30;Moses Lake, Washington;Military - U.S. Air Force;;Larson AFB Washington - Kelly AFB Texas;Douglas C-124A Globemaster;28;87;0;Taking-off
